@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="63.9240" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-08-15T13:54:29" tests="0" file="cypress\e2e\Features\LogInTelnyx.feature" time="0.0000" failures="0">
-  </testsuite>
-  <testsuite name="Telnyx" timestamp="2022-08-15T13:54:29" tests="1" time="63.9240" failures="0">
-    <testcase name="Telnyx Log in" time="63.9240" classname="Log in">
-    </testcase>
-  </testsuite>
-</testsuites>
